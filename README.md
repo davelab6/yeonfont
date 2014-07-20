@@ -9,4 +9,4 @@ For more detail, please visit: [http://yellody.com](http://yellody.com)
 License
 =======
 
-Yeon is licensed under SIL open font license. See [LICENSE].
+Yeon is licensed under SIL open font license. See [LICENSE](LICENSE).
